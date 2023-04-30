@@ -1,7 +1,7 @@
 # Codeclause_Unit-Converter
 
 This project includes converting standard units of measurement into required units.
-The types of measurements used here are
+The types of measurements used here are </br>
 •	Length
 •	Weight
 •	Temperature
