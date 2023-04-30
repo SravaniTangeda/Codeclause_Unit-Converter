@@ -1,18 +1,18 @@
 # Codeclause_Unit-Converter
 
-This project includes converting standard units of measurement into required units.
+This project includes converting standard units of measurement into required units.</br>
 The types of measurements used here are </br>
-•	Length
-•	Weight
-•	Temperature
+•	Length</br>
+•	Weight</br>
+•	Temperature</br>
 
-Tools Used:
-IDE: VS Code
+Tools Used:</br>
+IDE: VS Code</br>
 
-Front-End languages:
-•	HTML
-•	CSS
-•	JavaScript
+Front-End languages:</br>
+•	HTML</br>
+•	CSS</br>
+•	JavaScript</br>
  
 ![image](https://user-images.githubusercontent.com/75802617/235351680-86e89971-089b-4b3e-b782-8f96cab12123.png)
 
