@@ -14,4 +14,7 @@ Front-End languages:
 •	CSS
 •	JavaScript
  
-![output](https://user-images.githubusercontent.com/75802617/235351513-fb5c1e35-3294-417f-bbee-03c1d7945c9f.png)
+![image](https://user-images.githubusercontent.com/75802617/235351680-86e89971-089b-4b3e-b782-8f96cab12123.png)
+
+![image](https://user-images.githubusercontent.com/75802617/235351647-3929669a-5bcc-49fd-8c89-edb31dcb3bb3.png)
+
